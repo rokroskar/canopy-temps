@@ -1,0 +1,3 @@
+[[io.buildpacks.build.env]]
+name = "BP_RENKU_AI_AGENTS"
+value = "claude"
